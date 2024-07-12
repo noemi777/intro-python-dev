@@ -36,6 +36,7 @@ python -m venv env
 
 Para comenzar a usar cada uno de los archivos, abre tu terminal en VSCode o usa la terminal de PowerShell o Ubuntu. 
 > El VSCode puedes abrir la terminal usando el comando ```Ctrl+Shift+ñ``` o en la barra superior busca ```...``` y selecciona ```Terminal```
+> No olvides guardar el archivo antes de usar el comando, puedes activar el Auto Save de VSCode, o simplemente usar ```CTRL+S```
 * Usa el siguiente comando:
   ``` python <nombredelarchivo>.py```
   > Ejemplo: ```python cadenas.py```
