@@ -1,5 +1,4 @@
 #Boolean
-
 verdadero = True
 falso = False
 
